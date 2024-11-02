@@ -2,6 +2,7 @@ baseURL: https://whakkee.com/
 title: Whakkee
 languageCode: en-us
 theme: hugo-flex
+enableEmoji: true
 
 params:
   color: rgb(143, 188, 143)  # DarkSeaGreen - Any color in CSS syntax
