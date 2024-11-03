@@ -66,11 +66,11 @@ menu:
 #    - name: Categories
 #      pageRef: /categories
 #      weight: 4
-    - name: RSS
-      pageRef: /
-      weight: 5
-      params:
-        - format: rss
+#    - name: RSS
+#      pageRef: /
+#      weight: 5
+#      params:
+#        - format: rss
 
 outputFormats:
   rss:
