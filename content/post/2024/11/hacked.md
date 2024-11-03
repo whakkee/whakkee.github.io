@@ -6,7 +6,7 @@ date = "2024-11-03"
 description = ""
 +++
 
-When I wanted to set up my new blog, I found that past me already created a repo on GitHub for my blog. It had an index.html that only contained the words "Hello world!". So far, so good. But when I used my custom domain name, I ended up on some vague gambling site, which was definitely not mine. Was I hacked? How was this possible, I set up 2FA everywhere?!
+As I wanted to set up my new blog, I found that past me already created a repo on GitHub for it. There was only an index.html with the words "Hello world!". So far, so good. But when I used my custom domain name, I ended up on some vague gambling site, which was definitely not mine. Was I hacked? How was this possible, I set up 2FA everywhere?!
 
 First I checked at my domain hosting provider (Hover). Everything looked normal there. And the direct link to my GitHub Pages looked fine too. I noticed that the custom domain name in the settings of my blog's repo wasn't filled in, so I did that, but couldn't save my changes. That domain name was already taken. WHAT?! This is *my* domain!
 
