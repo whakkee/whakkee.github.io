@@ -33,7 +33,7 @@ Rendering can take place either globally, or in specific locations using a built
 
 ### Examples
 
-Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+Inline math: $$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$$
 
 Block math:
 $$
