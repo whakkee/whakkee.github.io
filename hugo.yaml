@@ -63,9 +63,9 @@ menu:
 #    - name: Tags
 #      pageRef: /tags
 #      weight: 3
-    - name: Categories
-      pageRef: /categories
-      weight: 4
+#    - name: Categories
+#      pageRef: /categories
+#      weight: 4
     - name: RSS
       pageRef: /
       weight: 5
