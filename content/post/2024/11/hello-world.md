@@ -3,10 +3,10 @@ author = "Marga"
 title = "Hello world"
 date = "2024-11-02"
 description = ""
-categories = [
-    "test",
-    "new",
-]
+#categories = [
+#    "test",
+#    "new",
+#]
 +++
 
 Today I set up my new blog. While doing so, I found that my custom domain redirection was hacked. 
