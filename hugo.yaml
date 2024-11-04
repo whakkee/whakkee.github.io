@@ -54,9 +54,9 @@ markup:
 
 menu:
   main:
-#    - name: About
-#      pageRef: /about
-#      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 1
     - name: Posts
       pageRef: /post
       weight: 2
