@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 author: "Marga"
 title: "Metrics"
-date: "2024-11-04"
+date: "2024-11-18"
 description: ""
 ---
 
@@ -12,7 +12,7 @@ It's always fun to see if people visit your site or blog. It can be useful too, 
 
 #### TelemetryDeck
 
-The minute you're adding analytics tools to your site or app, however, you're dealing with your visitor's / user's privacy. I prefer to use tools that treat user data with care. In the case of this blog, I'm using [TelemetryDeck](https://telemetrydeck.com). I like that TelemetryDeck does not collect [any personally identifiable information](https://telemetrydeck.com/privacy). On top of that, up to 100K signals per month, it's free to use.
+The minute you're adding analytics tools to your site or app, however, you're dealing with your visitor's / user's privacy. I prefer to use tools that treat user data with care. In the case of this blog, which is made with [Hugo](https://gohugo.io), I'm now using [TelemetryDeck](https://telemetrydeck.com). I like that TelemetryDeck does not collect [any personally identifiable information](https://telemetrydeck.com/privacy). On top of that, up to 100K signals per month, it's free to use. (And no, I don't have stocks, I just really care about privacy, and I know the people at TelemetryDeck do too!)
 
 #### Implementing TelemetryDeck on Hugo
 
